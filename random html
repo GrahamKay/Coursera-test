@@ -1,0 +1,162 @@
+
+<!-- start of freecodecamp script -->
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<!-- end of freecodecamp script -->
+
+<!-- start of google font -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap" rel="stylesheet"> 
+<!-- end of google font -->
+<body>          
+<div class="container">
+<!-- start of navbar -->
+<div class="box-1">
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+    <li> <a href=#welcome-section> Welcome section </a></li>
+    <li> <a href=#projects> Projects </a></li>
+    <li> <a href=#contacts> Contact</a></li>
+    </nav>
+</div>
+  <!-- end of navbar -->
+  
+  
+  
+<div class="box-2"> 
+ <!-- start of welcome section -->
+  <section id="welcome-section">
+    <h1> Hi I'm Graeme </h1>
+    <p> I'm learning web development <p>
+  </section>
+</div>
+   <!-- end of welcome section -->
+  
+  
+  
+  <!-- start of projects section -->
+  <div class="box-3">
+      <section id="projects">
+    <h1> Below are some of my projects <h1>
+   <div class="projects">
+     <div class="grid-container">
+       <!-- start of tile1 -->
+  <div class="project-tile"><a
+      href="https://codepen.io/worgraeme/pen/oNzRMjp"
+      target="_blank">
+      <p class="project-title"> Charles Darwin Tribute Page </p> 
+   <img
+        class="project-image"
+        src="https://user-images.githubusercontent.com/41760857/121644909-82e14b80-ca8b-11eb-84e3-a18583ff7ba6.png"
+        alt="project"
+      />    
+    </a></div>
+       
+       <!-- end of tile1 -->
+       <!-- start of tile2 -->
+  <div class="project-tile"><a
+      href="https://codepen.io/worgraeme/pen/bGBepoK"
+      target="_blank">
+      <p class="project-title"> Freecode Camp Survey Form </p> 
+       <img
+        class="project-image"
+        src="https://user-images.githubusercontent.com/41760857/121645278-ebc8c380-ca8b-11eb-9434-3f84c29eb9af.png"
+        alt="project"
+      />    
+    </a></div>
+       <!-- end of tile2 -->
+      
+       <!-- start of tile3 -->
+  <div class="project-tile"><a
+      href="https://codepen.io/worgraeme/pen/NWpWVLP"
+      target="_blank">
+      <p class="project-title"> Free Code Camp Product Landing Page </p> 
+     <img
+        class="project-image"
+        src="https://user-images.githubusercontent.com/41760857/121478764-46491d80-c9c1-11eb-951b-a7dcb488052d.png"
+        alt="project"
+      />    
+    </a>
+      </div>  
+       <!-- end of tile3 -->
+       <!-- start of tile4 -->
+  <div class="project-tile"><a
+        <div class="project-tile"><a
+      href="https://codepen.io/worgraeme/pen/ZELdzBo"
+      target="_blank">
+      <p class="project-title"> Free Code Camp Technical Documentation </p> 
+     <img
+        class="project-image"
+        src="https://user-images.githubusercontent.com/41760857/121645497-2b8fab00-ca8c-11eb-9af5-0d09c02b544f.png"
+        alt="project"
+      />  
+   
+       </a></div>
+       <!-- end of tile4 -->
+</div>
+
+      </div>
+      
+  </section>
+      <!-- end of projects section -->
+</div>
+        
+       <!-- start of contacts section -->
+        
+    <div class="box-4">    
+      <section id="contacts" class="contact-section">
+  <div class="contact-section-header">
+    <h2>Please get in touch</h2>
+    <p>I would love to hear from you</p>
+  </div>
+  <div class="contact-links">
+    
+<!-- start of facebook link--> 
+    <a
+      href="https://facebook.com/graemekrzysiak"
+      target="_blank"
+      class="btn contact-details"
+      ><i class="fab fa-facebook-square"></i> Facebook</a
+    >
+    
+    <!-- end of facebook link--> 
+    <!-- start of github link--> 
+    
+    <a
+      id="profile-link"
+      href="https://github.com/worgraeme"
+      target="_blank"
+      class="btn contact-details"
+      ><i class="fab fa-github"></i> GitHub</a
+    >
+    
+    <!-- end of github link--> 
+    <!-- start of twitter link--> 
+    <a
+      href="https://twitter.com/graemekrzysiak"
+      target="_blank"
+      class="btn contact-details"
+      ><i class="fab fa-twitter"></i> Twitter</a
+    >
+    
+    <!-- end of twitter link--> 
+    <!-- start of email link--> 
+    <a href="mailto:graemekrzysiak78@yahoo.co.uk" class="btn contact-details"
+      ><i class="fas fa-at"></i> Send a mail</a
+    >
+    
+    <!-- end of email link--> 
+    <!-- start of mobile link--> 
+    <a href="tel:555-555-5555" class="btn contact-details"
+      ><i class="fas fa-mobile-alt"></i> Call me</a
+    >
+    <!-- end of mobile link--> 
+  </div>
+</section>
+
+<!-- END CONTACT SECTION -->
+      <!-- end of contacts section --> 
+        </div>   
+    </div>
+     </div>
+  </div>
+  </body>
